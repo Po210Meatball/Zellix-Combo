@@ -1,4 +1,4 @@
-library(rayshader)
+library(gtools)
 library(tidyverse)
 
 deck_comb=data.frame(combinations(41, 3, c(0:40), repeats.allowed = TRUE))
