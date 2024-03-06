@@ -87,5 +87,5 @@ df=df%>%
 
 View(df)
 
-#write.csv(df,"/Users/jordanthompson/Desktop/Important stuff/Programing Stuff/Zellix combo/Zellix take 2/3PlayerCardsMilled.csv")
+#write.csv()
 close(pb)
